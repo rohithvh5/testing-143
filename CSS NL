@@ -301,4 +301,9 @@ body {
     .hamburger.toggle .line1 { transform: rotate(-45deg) translate(-5px, 6px); }
     .hamburger.toggle .line2 { opacity: 0; }
     .hamburger.toggle .line3 { transform: rotate(45deg) translate(-5px, -6px); }
+
+    .project-card {
+        padding: 2.5rem 1.5rem; /* Reduced horizontal padding for mobile */
+    }
 }
+
