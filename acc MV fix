@@ -286,6 +286,9 @@ body {
     .hero-content { text-align: center; }
     .hero-content .hero-subtitle { margin: 0 auto 2rem auto; }
     .hero-buttons { justify-content: center; }
+    .project-content {
+        text-align: center;
+    }
 }
 @media (max-width: 768px) {
     .skills-grid { grid-template-columns: 1fr; }
